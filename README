@@ -1,0 +1,9 @@
+Download dataset from https://files.grouplens.org/datasets/movielens/ml-latest.zip
+Extract ratings.csv and movies.csv and place them in the 'Code' directory.
+Directory tree should be
+	/code/
+		---main.ipynb
+		---ratings.csv
+		---movies.csv
+Open the 'code' directry in Google Collab or VScode
+Run all cells in Collaborative Method section for the model 1 and for the content based model edit the userNUM (indexing from 1) to see the recommendation for different users
